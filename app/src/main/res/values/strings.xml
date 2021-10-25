@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Z5</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="button_tip">Podpowiedź</string>
+
+    <string name="q_1">PYTANIE 1</string>
+    <string name="q_2">PYTANIE 2</string>
+    <string name="q_3">PYTANIE 3</string>
+    <string name="q_4">PYTANIE 4</string>
+    <string name="q_5">PYTANIE 5</string>
+
+    <string name="correct_answer">Prawidłowa odpowiedź</string>
+    <string name="incorrect_answer">Nieprawidłowa odpowiedź</string>
+    <string name="answer_was_shown">Odpowiedź była już wyświetlona!</string>
+</resources>
